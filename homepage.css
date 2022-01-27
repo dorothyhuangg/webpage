@@ -1,0 +1,159 @@
+header{
+		background-color: #8B0000;
+		padding: 4px;
+		margin-bottom: 0;
+		font-family: Helvetica, sans-serif;
+		color: white;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		display: inline-flex;
+	}
+	.headerText{
+		margin-left: 10px;
+	}
+	hr{
+		margin-top: 120px;
+		border: 1px solid black;
+	}
+	h1{
+		border: solid 4px #BA55D3;
+		font-family: Helvetica, sans-serif;
+		padding: 10px;
+		border-radius: 8px;
+		text-align: center;
+	}
+	.button-grid{
+		margin-left: 20%;
+		justify-content: center;
+		align-items: center;
+		margin-top: 10%;
+		padding-bottom: 5%;
+		width: 60%;
+		display: grid;
+		grid-template-columns: repeat(auto-fill,minmax(400px, 400px));
+		column-gap: 35px;
+		row-gap: 35px;
+	}
+	.Aidan{
+		width:  400;
+		height: 200;
+		display: inline-flex;
+		border: solid 4px #1E90FF;
+		border-radius: 8px;
+		background-color: #87CEFA;
+	}
+	.aidan-text-and-button{
+		display: inline-block;
+	}
+	.picture-aidan{
+		margin: 15px;
+	}
+	.button-aidan{
+		margin-top: 0px;
+		height: 50px;
+		width: 150px;
+		background-color: #1E90FF;
+		border: none;
+		color: white;
+		font-size: 12px;
+		border-radius: 8px;
+		transition-duration: 0.4s;
+	}
+	.button-aidan:hover{
+		background-color: #87CEFA;
+		border: solid 4px #1E90FF;
+		color: black;
+	}
+	.Dorothy{
+		width:  400;
+		height: 200;
+		display: inline-flex;
+		border: solid 4px #DC143C;
+		border-radius: 8px;
+		background-color: #FFB6C1;
+	}
+	.dorothy-text-and-button{
+		display: inline-block;
+	}
+	.picture-dorothy{
+		margin: 15px;
+	}
+	.button-dorothy{
+		margin-top: 0px;
+		height: 50px;
+		width: 150px;
+		background-color: #DC143C;
+		border: none;
+		color: white;
+		font-size: 12px;
+		border-radius: 8px;
+		transition-duration: 0.4s;
+	}
+	.button-dorothy:hover{
+		background-color: #FFB6C1;
+		border: solid 4px #DC143C;
+		color: black;
+	}
+	.Adams{
+		width:  400;
+		height: 200;
+		display: inline-flex;
+		border: solid 4px #2E8B57;
+		border-radius: 8px;
+		background-color: #8FBC8F;
+	}
+	.adams-text-and-button{
+		display: inline-block;
+	}
+	.picture-adams{
+		margin: 15px;
+	}
+	.button-adams{
+		margin-top: 0px;
+		height: 50px;
+		width: 150px;
+		background-color: #2E8B57;
+		border: none;
+		color: white;
+		font-size: 12px;
+		border-radius: 8px;
+		transition-duration: 0.4s;
+	}
+	.button-adams:hover{
+		background-color: #8FBC8F;
+		border: solid 4px #2E8B57;
+		color: black;
+	}
+	.Isabella{
+		width:  400;
+		height: 200;
+		display: inline-flex;
+		border: solid 4px #FFD700;
+		border-radius: 8px;
+		background-color: #FFE4B5;
+	}
+	.bella-text-and-button{
+		display: inline-block;
+	}
+	.picture-bella{
+		margin: 15px;
+	}
+
+	.button-bella{
+		margin-top: 0px;
+		height: 50px;
+		width: 150px;
+		background-color: #FFD700;
+		border: none;
+		color: white;
+		font-size: 12px;
+		border-radius: 8px;
+		transition-duration: 0.4s;
+	}
+	.button-bella:hover{
+		background-color: #FFE4B5;
+		border: solid 4px #FFD700;
+		color: black;
+	}

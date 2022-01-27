@@ -1,0 +1,64 @@
+h{
+	color: red;
+	text-decoration: underline;
+	font-family: Arial;
+	font-size: 28px;
+}
+
+img{
+	border: 1px solid #ddd;
+  	border-radius: 7px;
+  	padding: 5px;
+  	width: 150px;
+}
+
+.Music{
+	position: absolute;
+	left: 40.5%;
+	top: 37%;
+	height: 400px;
+	transform: translate(-40%, -40%);
+	border: 5px solid #FF0000;
+	padding: 7px;
+	background-color: pink;
+	font-family: Arial;
+	font-size: px;
+}
+.Socials{
+	border: 3px solid #00FFFF;
+	position:  absolute;
+	left: 40.5%;
+	top: 82.5%;
+	width: 585px;
+	height: 200px;
+	transform: translate(-40%, -40%);
+	background-color: orange;
+	font-size: 16px;
+}
+.Hobbies{
+	position: absolute;
+	left: 79.15%;
+	top: 32%;
+	transform: translate(-40%, -40%);
+	border: 5px solid #808080;
+	padding: 7px;
+	width: 585px;
+	height: 310px;
+	background-color: royalblue;
+	color: darkgreen;
+}
+.intagram{
+	top: 12%;
+}
+.Clubs{
+position: absolute;
+	left: 78.7%;
+	top:75.7%;
+	transform: translate(-40%, -40%);
+	border: 5px solid #FFD700;
+	padding: 7px;
+	width: 570px;
+	height: 280px;
+	background-color: #32CD32;
+	color: #000000 ;
+.

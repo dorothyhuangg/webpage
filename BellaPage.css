@@ -1,0 +1,142 @@
+#wrapper{
+	background-color: #1E90FF;
+}
+h4{
+	margin: 0;
+}
+h5{
+	margin: 0;
+}
+p{
+	margin: 0;
+}
+header{
+	padding-top: 10px;
+	padding-bottom: 1px;
+	margin-bottom: 10px;
+	border-radius: 8px;
+	background-color: lightgreen;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+header h1{
+	background-color: #B0C4DE;
+	border: none;
+	font-family: Helvetica, sans-serif;
+	padding: 10px;
+}
+header ul{
+	margin-top: 0;
+	list-style-type: none;
+	text-align: center;
+}
+header a{
+	padding-right: 30px;
+}
+header li{
+	display: inline;
+}
+nav{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 40px;
+	background-color: beige;
+}
+nav ul{
+	list-style-type: none;
+}
+nav a{
+	text-decoration: none;
+	padding-right: 10px;
+}
+nav li{
+	display: inline;
+}
+main{
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #B0C4DE;
+	height: 335px;
+	border: 2px solid;
+	font-size: 14px;
+	font-family: Helvetica, sans-serif;
+	border-radius: 8px;
+	}
+
+footer{
+	bottom: 0;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+	height: 100%;
+	padding: 10px;
+	background-color: beige;
+}
+.float{
+	background-color: lightgreen;
+}
+img{
+	border: outset;
+}
+button{
+	margin: 5px;
+	width: 200;
+	height: 40;
+	background-color: #4169E1;
+	color: white;
+	padding:  12px 14px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	border-radius: 12px;
+	transition-duration: 0.4s;
+
+}
+button:hover{
+	background-color: white;
+	color: #4169E1;
+}
+.floatimg{
+	display: grid;
+	float: left;
+	margin-right: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.floattxt{
+
+}
+.courseExperience{
+	float: left;
+	margin: 10px;
+	border: solid maroon 5px;
+	width: 24%;
+	padding: 10px;
+}
+.projects{
+	float: left;
+	margin: 10px;
+	border: solid maroon 5px;
+	width: 24%;
+	padding: 10px;
+}
+.workExperience{
+	float: left;
+	margin: 10px;
+	border: solid maroon 5px;
+	width: 24%;
+	padding: 10px;
+}
+.skillsList{
+	list-style-type: none;
+}
+.projList{
+	list-style-type: '- ';
+}
